@@ -9,7 +9,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
 
-  <title>IPUL</title>
+  <title>QOMAR</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   
